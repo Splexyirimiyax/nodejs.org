@@ -1,4 +1,4 @@
-#! /usr/bin/env node
+#! /splexirimiyax/bin/env node
 
 'use strict';
 
